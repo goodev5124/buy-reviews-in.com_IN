@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://buy-reviews-in.com/sitemap.xml
