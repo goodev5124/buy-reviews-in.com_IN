@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /merci.html
+Disallow: /thank-you.html
 
 Sitemap: https://buy-reviews-in.com/sitemap.xml
